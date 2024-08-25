@@ -4,7 +4,7 @@
  I'm a Data Scientist with expertise in Machine Learning and Data Analysis. I love working with data to solve problems and sharing my knowledge with others. Always eager to learn and collaborate on impactful projects.
 
 ### My Github Stats
-[[Github stats]https://github-readme-streak-stats.herokuapp.com/?user=abubakarsaddique13]
+![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=abubakarsaddique13)
 
  
 <!--
